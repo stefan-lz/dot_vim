@@ -73,3 +73,9 @@
 [submodule "bundle/vim-reek"]
 	path = bundle/vim-reek
 	url = https://github.com/rainerborene/vim-reek.git
+[submodule "bundle/vim-rubocop"]
+	path = bundle/vim-rubocop
+	url = https://github.com/ngmy/vim-rubocop.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline
